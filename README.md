@@ -8,6 +8,6 @@ Usage:
 
 `out` folder will contain all insects
 
-<img src="out_sample/1.jpg" width=100><img src="out_sample/2.jpg" width=100><img src="out_sample/3.jpg" width=100><br>
+<img src="out_sample/1.jpg" width=100> <img src="out_sample/2.jpg" width=100> <img src="out_sample/3.jpg" width=100><br>
 from:<br>
 <img src="input/EDFqo8sk.jpeg" width=500>
